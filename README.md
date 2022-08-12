@@ -1,7 +1,7 @@
 ## Hi there, I'm Kauê 👋
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/KaueBenk">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=kauebenk&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     <img height="180em"
